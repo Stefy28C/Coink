@@ -1,0 +1,76 @@
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\ApiUsuarios.exe
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\ApiUsuarios.deps.json
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\ApiUsuarios.runtimeconfig.json
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\ApiUsuarios.dll
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\ApiUsuarios.pdb
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\ApiUsuarios\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\ApiUsuarios.csproj.AssemblyReference.cache
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\ApiUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\ApiUsuarios.AssemblyInfoInputs.cache
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\ApiUsuarios.AssemblyInfo.cs
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\ApiUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\ApiUsuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\ApiUsuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\staticwebassets\msbuild.ApiUsuarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiUsuarios.props
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiUsuarios.props
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiUsuarios.props
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\scopedcss\bundle\ApiUsuarios.styles.css
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\ApiUsuar.BB6041A2.Up2Date
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\ApiUsuarios.dll
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\refint\ApiUsuarios.dll
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\ApiUsuarios.pdb
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\ApiUsuarios.genruntimeconfig.cache
+C:\Users\Asus\ApiUsuarios\obj\Debug\net8.0\ref\ApiUsuarios.dll
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\ApiUsuarios.exe
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\ApiUsuarios.deps.json
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\ApiUsuarios.runtimeconfig.json
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\ApiUsuarios.dll
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\ApiUsuarios.pdb
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\Npgsql.dll
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\ApiUsuarios - copia\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\ApiUsuarios.csproj.AssemblyReference.cache
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\ApiUsuarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\ApiUsuarios.AssemblyInfoInputs.cache
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\ApiUsuarios.AssemblyInfo.cs
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\ApiUsuarios.csproj.CoreCompileInputs.cache
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\ApiUsuarios.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\ApiUsuarios.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\staticwebassets\msbuild.ApiUsuarios.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\staticwebassets\msbuild.build.ApiUsuarios.props
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ApiUsuarios.props
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ApiUsuarios.props
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\scopedcss\bundle\ApiUsuarios.styles.css
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\ApiUsuar.BB6041A2.Up2Date
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\ApiUsuarios.dll
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\refint\ApiUsuarios.dll
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\ApiUsuarios.pdb
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\ApiUsuarios.genruntimeconfig.cache
+C:\Users\Asus\ApiUsuarios - copia\obj\Debug\net8.0\ref\ApiUsuarios.dll
